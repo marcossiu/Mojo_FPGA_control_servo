@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=X:\NPS\EC3000\FPGA\Final Final\mojo-base-project-master\syn\mojo_top.ncd
+OUTFILE=X:\NPS\EC3000\FPGA\Final Final\mojo-base-project-master\syn\mojo_top.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=X:\NPS\EC3000\FPGA\Final Final\mojo-base-project-master\syn
+LICENSE=WebPack
+USER_INFO=210931887_0_0_349

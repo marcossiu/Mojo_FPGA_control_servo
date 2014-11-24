@@ -1,0 +1,7 @@
+verilog work "../src/spi_slave.v"
+verilog work "../src/serial_tx.v"
+verilog work "../src/serial_rx.v"
+verilog work "../src/cclk_detector.v"
+verilog work "../src/pwm.v"
+verilog work "../src/avr_interface.v"
+verilog work "../src/mojo_top.v"
